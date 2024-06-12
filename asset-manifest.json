@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/wavesvo/static/css/main.31a603cd.css",
+    "main.js": "/wavesvo/static/js/main.4d7899a9.js",
+    "static/media/banner.png": "/wavesvo/static/media/banner.fb18021f395c71c6b9f5.png",
+    "static/media/c-05.png": "/wavesvo/static/media/c-05.1fc8d6326078e1349234.png",
+    "static/media/c-11.png": "/wavesvo/static/media/c-11.a0c0100cbaf4076b602b.png",
+    "static/media/c-06.png": "/wavesvo/static/media/c-06.69385bef182dcc6d89d4.png",
+    "static/media/Poppins-Regular.ttf": "/wavesvo/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/c-09.png": "/wavesvo/static/media/c-09.54ef77665125e751a6a5.png",
+    "static/media/c-07.png": "/wavesvo/static/media/c-07.991bda7743121058eea4.png",
+    "static/media/c-10.png": "/wavesvo/static/media/c-10.10144f05dde9ae4744db.png",
+    "static/media/c-01.png": "/wavesvo/static/media/c-01.e1aa7059038b761ae88b.png",
+    "static/media/c-02.png": "/wavesvo/static/media/c-02.92a1333ad481b5552ca9.png",
+    "static/media/c-03.png": "/wavesvo/static/media/c-03.e3ac79f1237a8628cde2.png",
+    "static/media/c-04.png": "/wavesvo/static/media/c-04.2b676bbfce61b3e6784a.png",
+    "static/media/c-12.png": "/wavesvo/static/media/c-12.af3fbf4eea5aaafeff3f.png",
+    "static/media/avatar02.png": "/wavesvo/static/media/avatar02.0b8f4d2049e6a89f82d8.png",
+    "static/media/c-08.png": "/wavesvo/static/media/c-08.66d8bf032e4740f1c2d6.png",
+    "static/media/avatar01.png": "/wavesvo/static/media/avatar01.f75d6a49940cf6f4063e.png",
+    "static/media/avatar03.png": "/wavesvo/static/media/avatar03.d9672c614ee0db375ddf.png",
+    "static/media/ad04.png": "/wavesvo/static/media/ad04.3ac05f1bbcf81c360542.png",
+    "static/media/ad03.png": "/wavesvo/static/media/ad03.dd1439588378616e27c6.png",
+    "static/media/ad02.png": "/wavesvo/static/media/ad02.e99dcac9c0160015994c.png",
+    "index.html": "/wavesvo/index.html",
+    "main.31a603cd.css.map": "/wavesvo/static/css/main.31a603cd.css.map",
+    "main.4d7899a9.js.map": "/wavesvo/static/js/main.4d7899a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a603cd.css",
+    "static/js/main.4d7899a9.js"
+  ]
+}
